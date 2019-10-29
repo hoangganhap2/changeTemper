@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectId" id="1SsuIhRAwgc5HDc37oaOEMGvhtX" />
+  <component name="RunManager">
+    <configuration name="changeTempe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="changeTempe" />
+      <module name="ChangeTemperature" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.changeTempe" />
+      </list>
+    </recent_temporary>
+  </component>
+</project>
